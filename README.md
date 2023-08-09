@@ -3,7 +3,7 @@
 ## Data
 Link to data: 
 
-```https://drive.google.com/drive/folders/1yC-tC2x13eGTKI3vlvtWql-gqzIPrRut?usp=sharing```
+```https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-4/```
 
 ## Model training
 
